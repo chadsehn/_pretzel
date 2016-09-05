@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: Sample Layout
- * 
+ *
  * This is a sample page template for doing a different layout.
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
