@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/chadsehn/_pretzel.svg?branch=master)](https://travis-ci.org/chadsehn/_pretzel)
 
 _pretzel
 ========
