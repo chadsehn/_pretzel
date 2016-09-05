@@ -39,7 +39,7 @@ if ( post_password_required() ) {
 						'comments title',
 						'_pretzel'
 					) ),
-					number_format_i18n( absint( get_comments_number() ) ),
+					absint( get_comments_number() ),
 					'<span>' . get_the_title() . '</span>'
 				);
 			?>
