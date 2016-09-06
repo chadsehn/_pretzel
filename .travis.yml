@@ -89,3 +89,6 @@ script:
 # @link http://docs.travis-ci.com/user/notifications/#Email-notifications
 notifications:
     email: false
+    slack:
+    	secure: oNBeLVLfVptjCmZqJ68Fr+iKspdRejASdl7sh6+pf/iLBO1G+LECy9epc6um/QzwvNKOqmi790MK7fA3kKbz5bRaJ2kPSP/kBR7acTnlBHnZw/xvMIDDD7R4d5/KzQnFdqBikRRUFbZQk5VlLj9tG4/bBND/pXqT8HZJe/KiwrUiPDK3SJZNcDkHKqogUtfyO8PQh7lOgXbvyDv3CZFoZKrtAS6uN8F5ULbCRpkSp3KPUdKzwbAJ77CWCtaFqrIrMEaqOcqVviCxfQEjpERBjk7L+36dZM59GX6j+Pj/aJM2LHZbRxydYrZ4VjnKCjtj4r+RXeNNnvnAUIVALfjS90pGff4dPXuI7ptB4C8fnk+eVFYUaeQhKlS+A8hVYqhWeYlQfH0cAQ0cwjBlscrusWtWPVrFg2fp6dyXSaxE1hjJF7LPAuvOx4v4Gf+S/cvnDnW9VhZSDbKIaoeNEtRO8+YXnJRlI4jjZzbGRBCBgT4ZeOWhVFZU+kCWrMZ9JFagR9cQKvQIroam9Fxa9Hcra2d035mfiBH7eEOWIQTE94eMfrZKNFM8sH0ufUTPlDdM/u4wSwDmoO5pOWBnDEayuiH98Ng6Kf+QCXiEmGjteiwqPpzO97d9aLxKc8pqeejJytSZlzwYvnW/2ORbf9yEOfkggZN8Kab8vCMwg162TRQ=
+
