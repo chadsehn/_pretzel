@@ -20,6 +20,6 @@ add_action( 'customize_register', '_pretzel_customize_register' );
  * Binds JS handlers to make Theme Customizer preview reload changes asynchronously.
  */
 function _pretzel_customize_preview_js() {
-	wp_enqueue_script( '_pretzel_customizer', get_template_directory_uri() . '/js/customizer.js', array( 'customize-preview' ), '20151215', true );
+	wp_enqueue_script( '_pretzel_customizer', get_template_directory_uri() . '/scripts/customizer.js', array( 'customize-preview' ), '20151215', true );
 }
 add_action( 'customize_preview_init', '_pretzel_customize_preview_js' );

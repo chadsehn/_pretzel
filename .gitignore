@@ -1,0 +1,9 @@
+# system files
+.DS_Store
+
+# cache files
+
+# dev files
+node_modules/*
+style.dev.css
+debug.log
